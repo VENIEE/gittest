@@ -1,6 +1,9 @@
 # firstgit
-깃허브 사용법을 연습합니다
+### 안녕하세요.
 
-여기에 원하는 내용을 입력하세요
+**Choi J E**입니다
 
-소스에 대한 간단한 소개를 작성합니다.
+<https://cafe.naver.com/hicode>
+
+[Hello 코딩 놀이터](https://cafe.naver.com/hicode, "카페")
+
